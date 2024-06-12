@@ -1155,7 +1155,7 @@ class DataClassGenerator {
      * @param {DartClass} clazz
      */
     insertFromMap(clazz) {
-        this.requiresImport('package:gw_flutter_core/gw_core.dart');
+        this.requiresImport('package:ch_core_utils/ch_core_utils.dart');
 
         let withDefaultValues = readSetting('fromMap.default_values');
         let props = clazz.properties;

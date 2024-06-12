@@ -1,6 +1,6 @@
 {
-	"name": "dart-json-model-tools",
-	"displayName": "DartJsonModel",
+	"name": "dart-class-tools",
+	"displayName": "Dart Class Tools",
 	"description": "Create dart data classes easily, fast and without writing boilerplate or running code generation.",
 	"publisher": "MXCode",
 	"version": "1.0.0",
