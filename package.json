@@ -3,7 +3,7 @@
 	"displayName": "Dart Class Tools",
 	"description": "Create dart data classes easily, fast and without writing boilerplate or running code generation.",
 	"publisher": "MXCode",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.65.0"
 	},
@@ -218,7 +218,7 @@
 							true,
 							false
 						],
-						"default": true,
+						"default": false,
 						"description": "If true, uses ValueGetter for nullable types when generates copyWith."
 					}
 				}
